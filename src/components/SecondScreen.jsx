@@ -58,7 +58,7 @@ export default function SecondScreen({ onNext }) {
 
             {/* IMAGE 1 – RIGHT SIDE (ORIGINAL PATH) */}
             <motion.img
-                src="/3.jpg"
+                src="/p1.jpeg"
                 alt="Floating image"
                 className="absolute top-1/4 right-1/4 w-24 h-24 rounded-full shadow-lg"
                 animate={{
@@ -74,7 +74,7 @@ export default function SecondScreen({ onNext }) {
 
             {/* IMAGE 2 – LEFT SIDE (MIRROR PATH) */}
             <motion.img
-                src="/1.jpg"
+                src="/p2.jpeg"
                 alt="Floating image"
                 className="absolute top-1/4 left-1/4 w-24 h-24 rounded-full shadow-lg"
                 animate={{
