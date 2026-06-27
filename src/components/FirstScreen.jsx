@@ -41,9 +41,9 @@ export default function FirstScreen({ onNext }) {
                     transition={{ delay: 0.3, duration: 0.8 }}
                     className="text-5xl md:text-6xl text-center mb-6 max-w-3xl text-balance leading-tight text-foreground font-medium"
                 >
-                    Oyee Jumbo ! 
+                    Oyee Panda ! 
                    
-                    <span className="block text-primary"> Happy New Year </span>
+                    <span className="block text-primary"> Good morning </span>
                 </motion.h1>
 
                 {/* Subtext */}
